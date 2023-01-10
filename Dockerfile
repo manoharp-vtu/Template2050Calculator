@@ -1,4 +1,4 @@
-FROM ghcr.io/imperialcollegelondon/anvil-app-server:latest
+FROM ghcr.io/imperialcollegelondon/anvil-app-server:latest@sha256:bc5b6d9993509c25d5b33b2392867cb5676b125caa32faba6b04c51441f45da2
 ENTRYPOINT []
 
 USER root
