@@ -1,4 +1,4 @@
-FROM python:3.9-alpine
+FROM python:3.9-alpine@sha256:e563d9490f107f2953e46670451815b05a56b59e52e0db62e1e8eda131318538
 
 RUN pip install --no-cache-dir openpyxl==3.0.7
 
